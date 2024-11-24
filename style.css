@@ -64,7 +64,7 @@ h2 {
 
 .slogan {
     display: flex;
-    padding: 23px;
+    padding: 30px;
     color: mediumseagreen;
     margin-left: 150px;
 }
@@ -78,7 +78,7 @@ h2 {
 .slogan_text {
     float:left;
     color: green;
-    margin: 20px;
+    margin: 30px;
 }
 
 footer {
